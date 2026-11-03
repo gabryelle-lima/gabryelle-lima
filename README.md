@@ -22,7 +22,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com experiência práti
 
 ### 🚀 Projetos em destaque
 
-#### 🧾 CaixaLume — Sistema de gestão e ponto de venda
+#### 🧾 [CaixaLume — Sistema de gestão e ponto de venda](https://github.com/gabryelle-lima/CaixaLume)
 
 Aplicação desktop desenvolvida em **C# / .NET 10**, com **Windows Forms, WebView2 e SQLite**, para apoiar operações comerciais.
 
@@ -32,7 +32,7 @@ Aplicação desktop desenvolvida em **C# / .NET 10**, com **Windows Forms, WebVi
 
 **Minha experiência:** desenvolvimento e evolução de funcionalidades, organização de regras de negócio e validação de cenários que envolvem dados financeiros.
 
-> 🔒 Repositório privado. Posso apresentar a arquitetura, as decisões técnicas e uma demonstração do projeto durante processos seletivos.
+🔗 **[Ver código, arquitetura e documentação](https://github.com/gabryelle-lima/CaixaLume)** · *Projeto em versão de teste, ainda não homologado para produção comercial/fiscal.*
 
 #### ⏱️ [Calculadora de Jornada](https://github.com/gabryelle-lima/Calculadora)
 
