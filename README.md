@@ -12,7 +12,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com experiência práti
 
 ---
 
-### 🛠️ Tecnologias e conhecimentos
+### Tecnologias e conhecimentos
 
 - **Desenvolvimento:** C#, .NET, Windows Forms, JavaScript, HTML, CSS e noções de React/TypeScript.
 - **Dados:** SQL, SQLite, modelagem básica, consultas e integridade de dados.
@@ -20,7 +20,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com experiência práti
 - **Sistemas e suporte:** investigação de falhas, análise de processos, sistemas ERP e atendimento a necessidades operacionais.
 - **Em estudo:** Linux, redes, administração de servidores e infraestrutura de TI.
 
-### 🚀 Projetos em destaque
+## Projetos em destaque
 
 #### 🧾 [CaixaLume — Sistema de gestão e ponto de venda](https://github.com/gabryelle-lima/CaixaLume)
 
@@ -34,7 +34,7 @@ Aplicação desktop desenvolvida em **C# / .NET 10**, com **Windows Forms, WebVi
 
 🔗 **[Ver código, arquitetura e documentação](https://github.com/gabryelle-lima/CaixaLume)** · *Projeto em versão de teste, ainda não homologado para produção comercial/fiscal.*
 
-#### ⏱️ [Calculadora de Jornada](https://github.com/gabryelle-lima/Calculadora)
+#### [Calculadora de Jornada](https://github.com/gabryelle-lima/Calculadora)
 
 Aplicação web em **JavaScript**, publicada pelo GitHub Pages, para cálculo de jornada e horários de saída.
 
@@ -44,11 +44,11 @@ Aplicação web em **JavaScript**, publicada pelo GitHub Pages, para cálculo de
 
 🔗 **[Ver demonstração](https://gabryelle-lima.github.io/Calculadora/)** · **[Ver código](https://github.com/gabryelle-lima/Calculadora)**
 
-### 💡 Como eu trabalho
+## Como eu trabalho
 
 Gosto de entender o problema antes de implementar a solução. Procuro documentar decisões, testar cenários de erro e considerar como a aplicação será utilizada na prática. Minha vivência com processos financeiros e sistemas corporativos ajuda a conectar necessidades do negócio à solução técnica.
 
-### 🎯 Objetivo profissional
+### Objetivo profissional
 
 Busco oportunidades **júnior em desenvolvimento de software** e **suporte de TI/sistemas**, nas quais possa contribuir com meus conhecimentos práticos e continuar evoluindo em programação, bancos de dados, diagnóstico de falhas e infraestrutura.
 
