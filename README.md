@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Eu sou a Gabryelle 👋
+# Olá! Eu sou a Gabryelle
 
 **Desenvolvimento de Software Júnior | C# / .NET • JavaScript • SQL | Suporte a Sistemas**
 
